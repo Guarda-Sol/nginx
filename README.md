@@ -64,3 +64,6 @@ services:
 ```
 
 Este read.me faz parte de um projeto maior. 
+comandos para pedir certificado
+certbot --nginx -d django.guarda.sol.app.br -d nodejs.guarda.sol.app.br
+
